@@ -1,12 +1,12 @@
-**Name:** HARSHAVARTHAN M
+**Name:** VENNIMALAI RAJA K
 
 **Company:** CODTECH IT SOLUTIONS
 
-**ID:** CT4FS4756 OFFER
+**ID:** CT08DS5396 OFFER
 
 **Domain:** FULL STACK
 
-**Duration:** JULY 10th,2024 to AUGUST 10th,2024
+**Duration:** JULY 20th,2024 to AUGUST 20th,2024
 
 **Mentor:** MUZAMMIL AHMED
 
